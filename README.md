@@ -1,21 +1,15 @@
-OLA Ride Data Analysis Project
+OLA RIDE DATA ANALYSIS PROJECT
 
 Project Overview 
-
 Title: OLA Ride Data Analysis for July
-
 Objective: Analyze July's OLA ride data to identify patterns and generate actionable insights.
-
 Total bookings: 103,000
-
 Total revenue: 35M
-
 Key metrics analyzed: Ride volume, revenue, cancellations, customer and driver ratings.
 
-Detailed explanation of the project
+DETAILED EXPLANATION OF PROJECT
 
 Data Preparation and analysis: 
-
 Cleaned raw data to remove inconsistencies using Excel.
 Used SQL to query and filter data for key attributes like Ride Volume, Revenue, and Cancellations.
 Ride Volume Over Time:Created a line chart to observe daily ride trends, identifying peak and low-demand days.
