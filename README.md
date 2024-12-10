@@ -1,6 +1,6 @@
-OLA RIDE DATA ANALYSIS PROJECT
+**OLA RIDE DATA ANALYSIS PROJECT**
 
-*OVERVIEW*
+# OVERVIEW
 
 Title: OLA Ride Data Analysis for July, 
 Objective: Analyze July's OLA ride data to identify patterns and generate actionable insights.
@@ -8,7 +8,7 @@ Total bookings: 103,000
 Total revenue: 35M
 Key metrics analyzed: Ride volume, revenue, cancellations, customer and driver ratings.
 
-*QUESTIONS*
+# QUESTIONS
 
 SQL Questions:
 1. Retrieve all successful bookings:
@@ -34,14 +34,14 @@ Power BI Questions:
 9. Driver Ratings Distribution
 10. Customer vs. Driver Ratings
 
-*TOOLS I USED*
+# TOOLS I USED
 
 1. SQL: Data Extraction and Preparation. Extract data from databases. Clean, transform, and preprocess data. Perform aggregations and complex queries.
 2. Excel: Data Exploration and Basic Analysis. Explore and clean datasets. Use formulas, pivot tables, and charts. Export/import data between tools.
 3. Power BI: Data Visualization and Reporting.Create interactive dashboards and reports. Visualize trends and insights.
 4. Git & GitHub: Essential for version control and sharing my Python code and analysis, ensuring collaboration and project tracking.
 
-*DATA ANALYSIS*
+# DATA ANALYSIS
 
 Data Preparation and analysis: 
 
@@ -63,7 +63,7 @@ Stacked Column Chart: Revenue and ride distance by payment method.
 Leaderboard Table: Top 5 customers by total booking value.
 Doughnut Chart: Booking status breakdown.
 
-*WHAT I LEARNED*
+# WHAT I LEARNED
 
 Throughout the OLA project, I enhanced my technical skills and deepened my understanding of data analysis in the context of the ride-hailing industry.
 Here are some key takeaways:
@@ -81,19 +81,19 @@ Operational Optimization: Analyzed ride cancellations and driver allocation issu
 Recognized the role of data analytics in aligning operational strategies with customer needs and market trends.
 Gained insights into how data-driven decisions can enhance customer satisfaction and business efficiency.
 
-*INSIGHTS*
+# INSIGHTS
 
 Highlighted the significant cancellation rate (28%) and the revenue distribution by payment methods.
 Identified the most popular vehicle types and top-spending customers.
 Analyzed customer and driver ratings to understand service quality.
 
-*CHALLENGES I FACED*
+# CHALLENGES I FACED
 
 This project was not without its challenges, but it provided good learning opportunities:
 Data Inconsistencies: Handling missing or inconsistent data entries requires careful consideration and thorough data-cleaning techniques to ensure the integrity of the analysis.
 Complex Data Visualization: Designing effective visual representations of complex datasets was challenging but critical for conveying insights clearly and compellingly.
 Balancing Breadth and Depth: Deciding how deeply to dive into each analysis while maintaining a broad overview of the data landscape required constant balancing to ensure comprehensive coverage without getting lost in details.
 
-*CONCLUSION*
+# CONCLUSION
 
 The exploration into the OLA project provides valuable insights into the operational and analytical aspects of ride-hailing services. The analysis highlights critical metrics and trends, offering a comprehensive understanding of customer behavior, driver performance, and service efficiency.
