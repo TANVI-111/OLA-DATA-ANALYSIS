@@ -70,18 +70,23 @@ Doughnut Chart: Booking status breakdown.
 # WHAT I LEARNED
 
 Throughout the OLA project, I enhanced my technical skills and my understanding of data analysis in the context of the ride-hailing industry.
+
 *Here are some key takeaways:*
+
 1. Advanced Tools and Techniques
 SQL for Data Extraction: Learned to query large datasets efficiently to retrieve relevant ride and customer data.
 Power BI for Visualization: Created interactive dashboards to display key metrics like ride demand trends, revenue, and driver performance.
 Advanced Tools Usage
-*2. Importance of Data Cleaning*
+
+2. Importance of Data Cleaning
 Understood that clean and well-structured data is essential for accurate analysis.
 Focused on handling missing values, duplicates, and outliers to improve data quality.
-*3. Real-World Analytical Insights*
+
+3. Real-World Analytical Insights
 Trend Analysis: Identified peak ride hours, high-demand routes, and seasonal variations.
 Operational Optimization: Analyzed ride cancellations and driver allocation issues to recommend improvements.
-*4. Strategic Business Understanding*
+
+4. Strategic Business Understanding
 Recognized the role of data analytics in aligning operational strategies with customer needs and market trends.
 Gained insights into how data-driven decisions can enhance customer satisfaction and business efficiency.
 
@@ -94,8 +99,11 @@ Analyzed customer and driver ratings to understand service quality.
 # CHALLENGES I FACED
 
 This project was not without its challenges, but it provided good learning opportunities:
+
 Data Inconsistencies: Handling missing or inconsistent data entries requires careful consideration and thorough data-cleaning techniques to ensure the integrity of the analysis.
+
 Complex Data Visualization: Designing effective visual representations of complex datasets was challenging but critical for conveying insights clearly and compellingly.
+
 Balancing Breadth and Depth: Deciding how deeply to dive into each analysis while maintaining a broad overview of the data landscape required constant balancing to ensure comprehensive coverage without getting lost in details.
 
 # CONCLUSION
