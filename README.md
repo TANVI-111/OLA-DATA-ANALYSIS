@@ -2,10 +2,14 @@
 
 # OVERVIEW
 
-Title: OLA Ride Data Analysis for July, 
+Title: OLA Ride Data Analysis for July Month
+
 Objective: Analyze July's OLA ride data to identify patterns and generate actionable insights.
+
 Total bookings: 103,000
+
 Total revenue: 35M
+
 Key metrics analyzed: Ride volume, revenue, cancellations, customer and driver ratings.
 
 # QUESTIONS
@@ -38,22 +42,22 @@ Power BI Questions:
 
 1. SQL: Data Extraction and Preparation. Extract data from databases. Clean, transform, and preprocess data. Perform aggregations and complex queries.
 2. Excel: Data Exploration and Basic Analysis. Explore and clean datasets. Use formulas, pivot tables, and charts. Export/import data between tools.
-3. Power BI: Data Visualization and Reporting.Create interactive dashboards and reports. Visualize trends and insights.
+3. Power BI: Data Visualization and Reporting. Create interactive dashboards and reports. Visualize trends and insights.
 4. Git & GitHub: Essential for version control and sharing my analysis, ensuring collaboration and project tracking.
 
 # DATA ANALYSIS
 
 Data Preparation and analysis: 
 
-Cleaned raw data to remove inconsistencies using Excel.
-Used SQL to query and filter data for key attributes like Ride Volume, Revenue, and Cancellations.
-Ride Volume Over Time:Created a line chart to observe daily ride trends, identifying peak and low-demand days.
-Booking Status Breakdown:Developed a doughnut chart to show successful bookings, customer cancellations, and driver cancellations.
-Vehicle Type Insights:Used a bar chart to display the top 5 vehicle types by ride distance.Visualized average customer ratings for different vehicle types.
-Revenue Analysis:Designed a column chart to analyze revenue by payment method (Cash, UPI, Credit Card, Debit Card).
-Generated a table of the top 5 customers by booking value.Plotted a Chart of ride distance distribution per day.
-Cancellations Analysis:Created bar charts for reasons behind customer and driver cancellations.
-Ratings Analysis:Visualized driver ratings distribution. Compared customer and driver ratings.
+Cleaned raw data to remove inconsistencies using Excel. 
+Used SQL to query and filter data for key attributes like Ride Volume, Revenue, and Cancellations. 
+Ride Volume Over Time:Created a line chart to observe daily ride trends, identifying peak and low-demand days. 
+Booking Status Breakdown:Developed a doughnut chart to show successful bookings, customer cancellations, and driver cancellations. 
+Vehicle Type Insights:Used a bar chart to display the top 5 vehicle types by ride distance.Visualized average customer ratings for different vehicle types. 
+Revenue Analysis:Designed a column chart to analyze revenue by payment method (Cash, UPI, Credit Card, Debit Card). 
+Generated a table of the top 5 customers by booking value.Plotted a Chart of ride distance distribution per day. 
+Cancellations Analysis:Created bar charts for reasons behind customer and driver cancellations. 
+Ratings Analysis:Visualized driver ratings distribution. Compared customer and driver ratings. 
 
 Key Visualizations and Reports
 
@@ -65,19 +69,19 @@ Doughnut Chart: Booking status breakdown.
 
 # WHAT I LEARNED
 
-Throughout the OLA project, I enhanced my technical skills and deepened my understanding of data analysis in the context of the ride-hailing industry.
-Here are some key takeaways:
+Throughout the OLA project, I enhanced my technical skills and my understanding of data analysis in the context of the ride-hailing industry.
+*Here are some key takeaways:*
 1. Advanced Tools and Techniques
 SQL for Data Extraction: Learned to query large datasets efficiently to retrieve relevant ride and customer data.
 Power BI for Visualization: Created interactive dashboards to display key metrics like ride demand trends, revenue, and driver performance.
 Advanced Tools Usage
-2. Importance of Data Cleaning
+*2. Importance of Data Cleaning*
 Understood that clean and well-structured data is essential for accurate analysis.
 Focused on handling missing values, duplicates, and outliers to improve data quality.
-3. Real-World Analytical Insights
+*3. Real-World Analytical Insights*
 Trend Analysis: Identified peak ride hours, high-demand routes, and seasonal variations.
 Operational Optimization: Analyzed ride cancellations and driver allocation issues to recommend improvements.
-4. Strategic Business Understanding
+*4. Strategic Business Understanding*
 Recognized the role of data analytics in aligning operational strategies with customer needs and market trends.
 Gained insights into how data-driven decisions can enhance customer satisfaction and business efficiency.
 
