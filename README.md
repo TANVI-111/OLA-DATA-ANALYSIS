@@ -39,7 +39,7 @@ Power BI Questions:
 1. SQL: Data Extraction and Preparation. Extract data from databases. Clean, transform, and preprocess data. Perform aggregations and complex queries.
 2. Excel: Data Exploration and Basic Analysis. Explore and clean datasets. Use formulas, pivot tables, and charts. Export/import data between tools.
 3. Power BI: Data Visualization and Reporting.Create interactive dashboards and reports. Visualize trends and insights.
-4. Git & GitHub: Essential for version control and sharing my Python code and analysis, ensuring collaboration and project tracking.
+4. Git & GitHub: Essential for version control and sharing my analysis, ensuring collaboration and project tracking.
 
 # DATA ANALYSIS
 
