@@ -69,7 +69,7 @@ Doughnut Chart: Booking status breakdown.
 
 # WHAT I LEARNED
 
-Throughout the OLA project, I enhanced my technical skills and my understanding of data analysis in the context of the ride-hailing industry.
+Throughout the OLA project, I enhanced my technical skills and my understanding of data analysis.
 
 *Here are some key takeaways:*
 
